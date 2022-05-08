@@ -1,0 +1,24 @@
+{
+  "name": "restaurant_prisma",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^3.13.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.31",
+    "prisma": "^3.13.0",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.4"
+  },
+  "description": ""
+}
